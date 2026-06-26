@@ -11,7 +11,7 @@ LGBR00010|Brush|LA GIRL|Domed Crease Brush|419.00|11|2026-06-21
 ABSP00011|Sponge|ABSIDY|Complexion Sponge (Light Beige)|245.00|89|2026-06-22
 ABSP00012|Sponge|ABSIDY|Complexion Sponge (Light Brown)|245.00|99|2026-06-22
 CBSP00013|Sponge|CHIC BOBBIE|Beauty Tools - Make-up Blending Sponge|185.00|40|2026-06-22
-MBEB01017|Brow|MAYBELLINE|Tattoo Brow 36HR Eyebrow Pencil (Grey Brown)|299.00|22|2026-06-22
+MBEB01017|Brow|MAYBELLINE|Tattoo Brow 36HR Eyebrow Pencil (Grey Brown)|299.00|22|2026-06-26
 MBEB02018|Brow|MAYBELLINE|Tattoo Brow 36HR Eyebrow Pencil (Dark Brown)|299.00|19|2026-06-22
 MBEB03019|Brow|MAYBELLINE|Tattoo Brow 36HR Eyebrow Pencil (Natural Brown)|299.00|11|2026-06-24
 MBEB01020|Brow|MAYBELLINE|Build a Brow (01)|519.00|47|2026-06-22
